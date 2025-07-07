@@ -43,7 +43,7 @@
 ---
 
 ## 🎯 Certifications
-- **AWS Certified Cloud Practitioner**
+- **Infosys Certified SDET**
 
 ---
 
