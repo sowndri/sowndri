@@ -2,7 +2,16 @@
 
 **🚀 Senior Quality Assurance Analyst @ BCT | Functional & Automation Enthusiast | JAVA | Selenium **
 
-I am a passionate **Quality Assurance** with expertise in Functional Testing, Test Automation, and Agile Testing Methodologies. Skilled in designing robust test frameworks using Selenium and Java, I help deliver high-quality applications through rigorous testing strategies and continuous integration practices.and creating seamless **CI/CD pipelines** using the latest tools and technologies. I have hands-on experience in test automation, API testing, CI/CD pipelines, and defect management. I enjoy working in Agile environments, collaborating closely with developers, and continuously improving testing processes to ensure fast and reliable delivery.
+### 💡 About Me
+
+🎯 Passionate **Senior QA Engineer** with a strong background in **Test Automation, Functional Testing, API Testing, and CI/CD Integration**.
+
+🔹 Expertise in developing **robust automation frameworks** using **Selenium, Java, and TestNG**  
+🔹 Skilled in identifying bugs early through **shift-left testing**  
+🔹 Experience in working with Agile & Scrum methodologies  
+🔹 Strong in **Defect Tracking, Root Cause Analysis**, and **Test Strategy Design**
+
+🌱 Currently exploring **AI-driven test automation tools**.
 
 ---
 
@@ -39,4 +48,4 @@ I am a passionate **Quality Assurance** with expertise in Functional Testing, Te
 ---
 
 ## ⚡ Fun Fact
-*When I'm not building infrastructure, I enjoy keeping up with the latest trends in cloud and automation technologies!*
+When I'm not writing test cases or automating scripts, I love exploring new automation tools and keeping up with emerging testing trends!
