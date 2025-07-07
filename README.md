@@ -1,27 +1,6 @@
 # 👨‍💻 Sowndharya Karthikeyan — Senior Quality Assurance Analyst
 
 **🚀 Senior Quality Assurance Analyst @ BCT | Functional & Automation Enthusiast | JAVA | Selenium **
-
-### 💡 About Me
-
-🎯 Passionate **Senior QA Engineer** with a strong background in **Test Automation, Functional Testing, API Testing, and CI/CD Integration**.
-
-🔹 Expertise in developing **robust automation frameworks** using **Selenium, Java, and TestNG**  
-🔹 Skilled in identifying bugs early through **shift-left testing**  
-🔹 Experience in working with Agile & Scrum methodologies  
-🔹 Strong in **Defect Tracking, Root Cause Analysis**, and **Test Strategy Design**
-
-🌱 Currently exploring **AI-driven test automation tools**.
-
----
-
-### ⚡ Quick Facts:
-- 🏢 Immediate Joiner
-- 🎓 B.E  in Electronics and Communication Engineering, **IFET COLLEGE OF ENGINEERING**
-- 🌟 5+ Years of hands-on in QA & Automation experience
-
----
-
 ## 🛠️ Skills & Tools
 
 | **Programming Languages** | **Test Automation** | **Source Control** | **CI/CD** | **Cloud & Infrastructure** |
@@ -35,17 +14,32 @@
 
 ---
 
+### 💡 About Me
+
+🎯 Passionate **Senior QA Engineer** with a strong background in **Test Automation, Functional Testing, API Testing, and CI/CD Integration**.
+
+🔹 Expertise in developing **robust automation frameworks** using **Selenium, Java, and TestNG**  
+🔹 Skilled in identifying bugs early through **shift-left testing**  
+🔹 Experience in working with Agile & Scrum methodologies  
+🔹 Strong in **Defect Tracking, Root Cause Analysis**, and **Test Strategy Design**
+
+🌱 Currently exploring **AI-driven test automation tools**.
+---
+
+### ⚡ Quick Facts:
+- 🏢 Immediate Joiner
+- 🎓 B.E  in Electronics and Communication Engineering, **IFET COLLEGE OF ENGINEERING**
+- 🌟 5+ Years of hands-on in QA & Automation experience
+
+---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowndharya-karthikeyan-81928a1a2/)
 
 ---
-
 ## 🎯 Certifications
 - **Infosys Certified SDET**
-
 ---
-
 ## ⚡ Fun Fact
 When I'm not writing test cases or automating scripts, I love exploring new automation tools and keeping up with emerging testing trends!
