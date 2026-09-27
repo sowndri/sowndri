@@ -20,7 +20,8 @@
 
 ## 📚 Projects Worked On
 
-- 💼 **Royal Bank of Scotland (RBS)** – Banking Domain  
+- 💼 **Royal Bank of Scotland (RBS)** – Banking Domain
+- 💼 **Standard Chartered** – Payments Domain  
 - 💼 **United Services Automobile Association (USAA)** – Insurance/Banking  
 - 💼 **Biogen** – Life Sciences  
 - 💼 **Otsuka America Pharmaceutical, Inc.** – Healthcare/Pharmaceutical  
